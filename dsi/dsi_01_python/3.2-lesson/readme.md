@@ -25,9 +25,6 @@ Week 1 | Lesson 3.2
 [Demo](./code/w1-3.2-demo.ipynb)
 [Practice](./code/w1-3.2-jupyter-practice.ipynb)
 
-### DATASET
-[Titanic](./assets/datasets/titanic.csv)
-
 ### LESSON GUIDE
 | TIMING  | TYPE  | TOPIC  |
 |:-:|---|---|
