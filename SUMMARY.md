@@ -158,7 +158,7 @@
   * [4.2 Lab](https://github.com/ga-students/dsi-sea-week08-4.2)
   * [4.3 Naive Bayes](dsi/dsi_08_bayesian_inference/4.3-lesson/readme.md)
   * [4.4 Lab](https://github.com/ga-students/dsi-sea-week08-4.4)
-  * [5.3 Communicating Bayesian Results](dsi/dsi_08_bayesian_inference/5.3-lesson/readme.md)
+  * [5.1 Communicating Bayesian Results](dsi/dsi_08_bayesian_inference/5.1-lesson/readme.md)
 * [9. Time Series Data](dsi/dsi_09_time_series/readme.md)
   * [1.1 Github for Teams](dsi/dsi_09_time_series/1.1-lesson/readme.md)
   * [1.2 Lab](https://github.com/ga-students/dsi-sea-week09-1.2)
